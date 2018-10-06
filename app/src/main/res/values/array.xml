@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>dəqiqə</item>
+        <item>saat</item>
+    </string-array>
+</resources>
